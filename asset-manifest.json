@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/newsmania/static/css/main.aa382ab8.css",
+    "main.js": "/newsmania/static/js/main.b7d62a24.js",
+    "index.html": "/newsmania/index.html",
+    "main.aa382ab8.css.map": "/newsmania/static/css/main.aa382ab8.css.map",
+    "main.b7d62a24.js.map": "/newsmania/static/js/main.b7d62a24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa382ab8.css",
+    "static/js/main.b7d62a24.js"
+  ]
+}
